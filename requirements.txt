@@ -138,7 +138,7 @@ pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pycodestyle==2.8.0
 pycosat==0.6.3
-pycparser==2.20==py_2
+pycparser==2.20
 pydeprecate==0.3.1
 pyflakes==2.4.0
 pyg==2.0.4
@@ -151,7 +151,7 @@ python-dateutil==2.8.2
 python-graphviz==0.20.1
 python-libarchive-c==2.9
 python-louvain==0.15
-python_abi==3.8==2_cp38
+python_abi==3.8
 pytorch==1.10.0
 pytorch-cluster==1.6.0
 pytorch-lightning==1.5.2
